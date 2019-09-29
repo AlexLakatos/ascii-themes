@@ -83,6 +83,9 @@ const cli = {
         res(cli.generate(answers.text, answers.font, answers.theme, answers.horizontal, answers.vertical));
       })
     })
+  },
+  support: () => {
+    return `Supported Fonts:\n${figlet.fontsSync()}\n\nSupported Themes:\n${Object.keys(themes)}`
   }
 }
 
