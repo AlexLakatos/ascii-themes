@@ -1,0 +1,10 @@
+node_modules
+themes/*/package*.json
+themes/*/.vscodeignore
+themes/*/cgmanifest*.json
+themes/**/*.svg
+themes/**/*.png
+themes/**/*.js
+themes/**/*.txt
+themes/**/*.woff
+themes/*/fileicons

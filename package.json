@@ -1,0 +1,21 @@
+{
+  "name": "ascii-themes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ascii-themes": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.4",
+    "hjson": "^3.1.2",
+    "inquirer": "^7.0.0",
+    "js-fire": "^0.7.0"
+  }
+}
