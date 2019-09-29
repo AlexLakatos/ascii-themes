@@ -9,7 +9,7 @@ Supports 287 fonts from [Figlet](http://www.figlet.org/) and 18 themes from [VS 
 npx ascii-themes generate text
 ```
 
-![ASCII Themes Text](ascii-themes-text.png)
+![ASCII Themes Text](https://raw.githubusercontent.com/AlexLakatos/ascii-themes/master/ascii-themes-text.png)
 
 - Optional flags:
   - `--font` The Figlet Font to use. Defaults to 'Slant Relief'.
