@@ -1,7 +1,7 @@
 {
   "name": "ascii-themes",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "CLI Interface to Generate Themed ASCII Art",
   "main": "index.js",
   "bin": {
     "ascii-themes": "index.js"
@@ -9,8 +9,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Alex Lakatos <alex.lakatos.dev@gmail.com> (https://twitter.com/lakatos88)",
+  "keywords": [
+    "figlet",
+    "ascii",
+    "ascii art",
+    "theme",
+    "vscode",
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexLakatos/ascii-themes.git"
+  },
+  "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
     "figlet": "^1.2.4",
